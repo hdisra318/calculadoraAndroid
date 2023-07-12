@@ -127,7 +127,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         if(!dataToCalculate.toString().endsWith("="))
             tvSolution.setText(dataToCalculate);
 
-        
     }
 
 
