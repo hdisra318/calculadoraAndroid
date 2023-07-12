@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="azul_verde">#212b38</color>
+    <color name="azul">#37465b</color>
+    <color name="negro_azul">#2A2F3D</color>
+    <color name="naranja">#FF6732</color>
+    <color name="azul_claro">#00F2FF</color>
+    <color name="azul_medio">#08C6AB</color>
+    <color name="rosa">#FF4F61</color>
+    <color name="morado">#726EFF</color>
+    <color name="bg_buttons">#f1f1f1</color>
+    <color name="amarillo">#FFCA00</color>
+
+</resources>
